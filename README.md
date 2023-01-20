@@ -20,9 +20,8 @@ Step 3: Modelling
    Baseline accuracy is 0.5 and all model is better than the baseline, some of them reach score by 0.9
    **The best model is Stack model which is combine 3 models: model 1, 4, 7 and get the test score around 0.93 and f1 score 0.93 as well.**
    Best recall score is from model 8 with recall score 0.98
-   Best specificity score is from model 7 with specificity score 0.93
    
-   I will pass the stack model and both best recall/specificity models to the image-processing team with explanation
+   I will pass the stack model and best recall model to the image-processing team
 
 ## RECOMMENDATION ##
    In order to improve the model, we should gather bigger dataset, or use/add another source of data, and using new word remove/token techniques.
